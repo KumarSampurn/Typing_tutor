@@ -14,7 +14,7 @@ int check_letter(char str1[], char str2[],int n)
             count++;
         }
     }
-    printf("\nNumber of mistakes user did : \t%d\n", count);
+    printf("\nNumber of  mistakes user did : \t%d\n", count);
     return count;
 }
 
