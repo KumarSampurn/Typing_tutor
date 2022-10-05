@@ -249,7 +249,7 @@ void special_keys(int n)
 void wordmode()
 {
     
-    FILE* fp= fopen("temp.txt", "r");
+    FILE* fp= fopen("words.txt", "r");
     char line[10000];
     char test[1000];
     
