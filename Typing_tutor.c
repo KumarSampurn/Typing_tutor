@@ -367,7 +367,7 @@ int main()
                         break;
 
                         default:
-                        printf("Invalid choice");
+                        printf("Invalid choice!! Please enter value between 1-6.");
                         break;
                     }
                 
@@ -384,7 +384,7 @@ int main()
             break;
 
             default:
-            printf("Invalid Choice");
+            printf("Invalid Choice!! Please enter value between 1-4");
             break;
         }
     }
