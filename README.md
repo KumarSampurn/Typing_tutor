@@ -1,4 +1,4 @@
-#Typing Tutor 
+# Typing Tutor 
 
 A command line base typing tutor
 
