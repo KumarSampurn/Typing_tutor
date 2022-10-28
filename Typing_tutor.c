@@ -250,8 +250,8 @@ void wordmode()
 {
     
     FILE* fp= fopen("words.txt", "r");
-    char line[10000];
-    char test[1000];
+    char line[1000000];
+    char test[100000];
     
     fgets(line,10000,fp);
 
