@@ -1,6 +1,21 @@
 # Typing Tutor 
 
-A command line base typing tutor
+This is a command line driven Typing Tutor in C language . 
 
-This is a 2nd sem project to help with understanding of computer language C . It has diffreent modules where we can practice diffrent sorts of typing. 
-It is a portotype of monkey type , where it takes number of words from a databse (word.txt) then asks user to print it. 
+## How Does it work ?? 
+It has diffrent modules in which you can run the program in like 
+
+* Time vs Speed mode
+* Time vs Words Mode
+* Speed Vs Words Mode
+* letter mode 
+  * Home row 
+  * Bottom Row
+  * Top Row
+  * Numeric Mode
+  * Special Charecters Mode
+* Word mode
+
+### Working of Word mode
+We read desired word mode The database then expect the user to type the same.
+
